@@ -1,41 +1,51 @@
-# Modelo de Dinámica de Sistemas: Promoción de Vivienda Municipal
+# Vivienda Pueblo Dinámica
 
-Este proyecto modela el sistema de gestión de vivienda de un Ayuntamiento rural, enfocado en la **economía circular local** y la **fijación de población**.
+Proyecto de resolución de problemas complejos (CPS) aplicado a la despoblación rural española mediante la gestión activa del parque de vivienda municipal.
 
-## 🏘️ El Sistema
-El modelo se basa en la recuperación de activos municipales y privados (ruinas, impagos, casas de maestros) para su reforma y puesta en el mercado (venta o alquiler).
+## Problema central
 
-### Objetivos Clave:
-* **Fijación de Población:** Atraer nuevos vecinos y retener a los jóvenes.
-* **Economía Local:** Prioridad absoluta a proveedores y negocios del municipio.
-* **Autosuficiencia:** Viviendas energéticamente eficientes (FV) para reducir costes.
-* **Reinversión:** El flujo de capital de las ventas se reinvierte en nuevas promociones.
+Los municipios españoles en riesgo de despoblación se enfrentan a un bucle sistémico de retroalimentación negativa: la pérdida de población reduce los servicios disponibles, lo que reduce el atractivo del municipio, lo que acelera la pérdida de población. La vivienda es el principal cuello de botella para romper este bucle: existe demanda latente de residencia rural (teletrabajo, coste de vida, calidad de vida) pero no hay oferta de vivienda disponible y asequible.
 
-## 📊 Mapa Causal (Forrester)
-Este diagrama muestra cómo interactúan los actores y los recursos:
+## Caso de validación: Santacara (Navarra)
 
-```mermaid
-graph TD
-    subgraph Activos
-        Suelo[Suelo Urbanizable] -->|Conversión| Obra[Proyectos de Reforma]
-        Casas[Casas Cura/Médico/Maestros] -->|Conversión| Obra
-        Ruina[Requisas por Ruina/Impagos] -->|Conversión| Obra
-    end
+Municipio piloto con datos reales para validar el modelo. Características representativas de municipios con activos infrautilizados y potencial de atracción demostrable.
 
-    subgraph Economia_Local
-        Obra -->|Concurso Prioridad Local| Prov[Proveedores Locales]
-        Prov -->|Multiplicador| Empleo[Empleo y Renta Local]
-        Empleo -->|Impulso| Comercio[Farmacia, Súper, Bares]
-        Comercio -->|Sostenibilidad| Servicios[Servicios Públicos/Escuela]
-    end
+## Repositorios relacionados
 
-    subgraph Modelo_Negocio
-        FV[Eficiencia FV] -->|Atractivo| Valor[Valor de Vivienda]
-        Obra -->|Plusvalía| Valor
-        Valor -->|Venta/Alquiler| Cash[Retorno de Capital]
-        Cash -->|Reinversión| Presupuesto[Presupuesto Promoción]
-        Presupuesto -->|Compra Vivienda Privada| Obra
-    end
+| Repo | Función en el modelo CPS |
+|------|--------------------------|
+| [vivienda-pueblo-dinamica](https://github.com/domoprac/vivienda-pueblo-dinamica) | Modelo dinámico de vivienda municipal + economía circular local |
+| [mapa-calidad-vida](https://github.com/domoprac/mapa-calidad-vida) | Visualización comparada de calidad de vida y coste municipal por municipio en España |
 
-    Servicios -->|Retención| Vecinos[Nuevos Vecinos / Jóvenes]
-    Vecinos -->|Demanda| Obra
+## Estructura del proyecto (metodología CPS)
+
+```
+CPS/
+├── FASE_1_METODOLOGIA.md        ← Definición del problema, DAFO, Ishikawa
+├── FASE_2_FENOMENOLOGIA.md      ← Análisis de complejidad, dinámica de sistemas
+├── FASE_3_ANALISIS_REALIDAD.md  ← Diagnóstico con datos reales (Santacara)
+├── FASE_4_CREATIVIDAD.md        ← Generación de soluciones
+├── FASE_5_EQUIPO_COMUNICACION.md← Stakeholders, plan de comunicación
+└── herramientas/
+    ├── DAFO_TEMPLATE.md         ← Autodiagnóstico genérico para cualquier municipio
+    ├── DAFO_SANTACARA.md        ← Instancia concreta con datos reales
+    ├── ISHIKAWA.md              ← Diagrama causa-raíz (en construcción)
+    └── FORRESTER.md             ← Modelo de dinámica de sistemas (en construcción)
+```
+
+## Modelo
+
+```
+VARIABLES.md     ← Variables del sistema dinámico
+ESTRATEGIA.md    ← Estrategia de intervención
+```
+
+## Estado del proyecto
+
+| Fase | Estado |
+|------|--------|
+| Fase 1 — Metodología CPS | 🔄 En curso |
+| Fase 2 — Fenomenología | 🔜 Pendiente |
+| Fase 3 — Análisis de la realidad | 🔜 Pendiente |
+| Fase 4 — Creatividad | 🔜 Pendiente |
+| Fase 5 — Equipo y comunicación | 🔜 Pendiente |
