@@ -31,9 +31,12 @@ Instancia concreta del [DAFO_TEMPLATE.md](DAFO_TEMPLATE.md) con datos reales del
 - Coste de vida bajo: vivienda, impuestos, aparcamiento, sin atascos
 
 ### Servicios
-- Centro de salud accesible a menos de 15 minutos
+- Centro de salud local y comarcal accesible a menos de 10 minutos. Hospitales a 40 min.
+- Escuela local.
 - IES accesible con transporte escolar gratuito (~12 min)
-- Servicios básicos cubiertos (farmacia, bar, comercio básico)
+- Universidades a 40 min (Pamplona) - 70 min (logroño) - 90 min (vitoria) - (San Sebastian)
+- Servicios básicos cubiertos (farmacias, bares, comercio básico)
+- Ocio local (Campo de fútbol, Padel, box (gimnasio), casa de cultura, piscina municipal - piscina cubierta cubierta a 10 min
 
 ### Calidad de vida objetiva
 - Índice de calidad de vida relativa alto para su tamaño
