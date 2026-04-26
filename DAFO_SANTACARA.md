@@ -23,7 +23,10 @@ Instancia concreta del [DAFO_TEMPLATE.md](DAFO_TEMPLATE.md) con datos reales del
   - IBI: 0,25% sobre valor catastral del m² construido (media navarra ~0,5-0,8%)
   - Sin tasa por vehículo eléctrico
   - Tasas de basura y servicios mínimas
-- Capacidad real de inversión en vivienda sin dependencia total de subvenciones
+- Capacidad real de inversión en vivienda sin dependencia total de subvenciones:
+  - Experiencia reciente en gestión de subvenciones y rehabilitación patrimonial (ej. nuevo Centro Sociocultural 2026).
+  - Capacidad demostrada del Ayuntamiento para ejecutar proyectos de inversión pública de impacto (355.000€ en 2026).
+  - Existencia de un marco urbanístico local (PUM) que facilita la identificación de parcelas.
 
 ### Infraestructura y conectividad
 - Fibra óptica 1.000 Mbps disponible en el municipio → apto para teletrabajo
@@ -66,10 +69,10 @@ Instancia concreta del [DAFO_TEMPLATE.md](DAFO_TEMPLATE.md) con datos reales del
 ## Oportunidades (externo · positivo)
 
 ### Marco normativo navarro
-- Subvenciones de edificación sostenible en Navarra → ahorro calculable por el ayuntamiento
-  → Ver calculadora en repo de subvenciones (en construcción)
-- Normativa de ruina e impagos → vía legal para recuperar activos privados abandonados
-- Fondos europeos LEADER y programas de lucha contra la despoblación activos
+- Disponibilidad de ayudas del Gobierno de Navarra mediante la Estrategia de Vivienda Rural.
+- Apoyo técnico y financiero de NASUVINSA para convertir edificios públicos en vivienda de alquiler.
+- Tendencia regional hacia modelos de vivienda colaborativa y cooperativas en cesión de uso (Ley Foral en desarrollo).
+- Integración en la red de vivienda pública rural que busca fijar población en municipios pequeños.
 
 ### Tendencias sociales
 - Teletrabajo consolidado → demanda creciente de vivienda rural con buena conectividad
@@ -105,7 +108,10 @@ Instancia concreta del [DAFO_TEMPLATE.md](DAFO_TEMPLATE.md) con datos reales del
 - Coste de reforma y construcción en alza (materiales + mano de obra)
 - Dependencia de subvenciones que pueden cambiar o desaparecer entre legislaturas
 - Mercado laboral industrial cercano sujeto a ciclos económicos (riesgo de cierre de plantas)
-
+- Desajuste entre el precio de venta actual y el coste real de adecuación normativa.
+- Riesgo de pérdida de patrimonio municipal si no se mantiene la actividad en los edificios rehabilitados.
+- Competencia por fondos regionales con otros municipios de la Zona Media con proyectos más avanzados.
+  
 ### Percepción y visibilidad
 - Desconocimiento externo de la calidad de vida real de Santacara
 - Competencia de municipios mayores cercanos (Tafalla, Olite, Tudela) con más servicios visibles
