@@ -34,7 +34,7 @@ Instancia concreta del [DAFO_TEMPLATE.md](DAFO_TEMPLATE.md) con datos reales del
 - Centro de salud local y comarcal accesible a menos de 10 minutos. Hospitales a 40 min.
 - Escuela local.
 - IES accesible con transporte escolar gratuito (~12 min)
-- Universidades a 40 min (Pamplona) - 70 min (logroño) - 90 min (vitoria) - (San Sebastian)
+- Universidades a 40 min (Pamplona) - 70 min (Logroño) - 90 min (Vitoria) - (San Sebastián)
 - Servicios básicos cubiertos (farmacias, bares, comercio básico)
 - Ocio local (Campo de fútbol, Padel, box (gimnasio), casa de cultura, piscina municipal - piscina cubierta cubierta a 10 min
 
