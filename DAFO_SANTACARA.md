@@ -19,27 +19,27 @@ Instancia concreta del [DAFO_TEMPLATE.md](DAFO_TEMPLATE.md) con datos reales del
 - **Ingresos propios extraordinarios y recurrentes**:
   - Central hidroeléctrica en el río Aragón → ingresos por uso de dominio público
   - Base militar de Las Bardenas Reales → ingresos anuales por renovación de contrato como municipio congozante
-- Tasas municipales entre las más bajas de Navarra:
+- **Tasas municipales entre las más bajas de Navarra**:
   - IBI: 0,25% sobre valor catastral del m² construido (media navarra ~0,5-0,8%)
   - Sin tasa por vehículo eléctrico
   - Tasas de basura y servicios mínimas
-- Capacidad real de inversión en vivienda sin dependencia total de subvenciones:
-  - Experiencia reciente en gestión de subvenciones y rehabilitación patrimonial (ej. nuevo Centro Sociocultural 2026).
-  - Capacidad demostrada del Ayuntamiento para ejecutar proyectos de inversión pública de impacto (355.000€ en 2026).
-  - Existencia de un marco urbanístico local (PUM) que facilita la identificación de parcelas.
+- **Capacidad demostrada de inversión pública**:
+  - Experiencia reciente en gestión de subvenciones y rehabilitación patrimonial (nuevo Centro Sociocultural 2026)
+  - Ejecución de proyectos de hasta 355.000€ en 2026
+  - Existencia de un marco urbanístico local (PUM) que facilita la identificación de parcelas
 
 ### Infraestructura y conectividad
-- Fibra óptica 1.000 Mbps disponible en el municipio → apto para teletrabajo
+- Fibra óptica 1.000 Mbps disponible → apto para teletrabajo
 - Red de agua, saneamiento y electricidad en buen estado
 - Coste de vida bajo: vivienda, impuestos, aparcamiento, sin atascos
 
 ### Servicios
-- Centro de salud local y comarcal accesible a menos de 10 minutos. Hospitales a 40 min.
-- Escuela local.
-- IES accesible con transporte escolar gratuito (~12 min)
-- Universidades a 40 min (Pamplona) - 70 min (Logroño) - 90 min (Vitoria) - (San Sebastián)
-- Servicios básicos cubiertos (farmacias, bares, comercio básico)
-- Ocio local (Campo de fútbol, Padel, box (gimnasio), casa de cultura, piscina municipal - piscina cubierta cubierta a 10 min
+- Centro de salud local y comarcal a menos de 10 minutos · Hospitales a 40 min
+- Escuela local
+- IES con transporte escolar gratuito (~12 min)
+- Universidades a 40 min (Pamplona) · 70 min (Logroño) · 90 min (Vitoria / San Sebastián)
+- Farmacias, bares, comercio básico
+- Ocio: campo de fútbol, pádel, gimnasio, casa de cultura, piscina municipal · piscina cubierta a 10 min
 
 ### Calidad de vida objetiva
 - Índice de calidad de vida relativa alto para su tamaño
@@ -55,7 +55,7 @@ Instancia concreta del [DAFO_TEMPLATE.md](DAFO_TEMPLATE.md) con datos reales del
 - Envejecimiento estructural de la población nativa
 
 ### Capacidad operativa
-- Ayuntamiento pequeño: ~5-7 concejales, sin equipo técnico dedicado a vivienda
+- Ayuntamiento pequeño (~5-7 concejales) sin equipo técnico dedicado a vivienda
 - Sin inventario actualizado del parque de vivienda municipal
 - Sin modelo sistémico de gestión de activos → intervenciones puntuales sin efecto multiplicador
 
@@ -69,10 +69,10 @@ Instancia concreta del [DAFO_TEMPLATE.md](DAFO_TEMPLATE.md) con datos reales del
 ## Oportunidades (externo · positivo)
 
 ### Marco normativo navarro
-- Disponibilidad de ayudas del Gobierno de Navarra mediante la Estrategia de Vivienda Rural.
-- Apoyo técnico y financiero de NASUVINSA para convertir edificios públicos en vivienda de alquiler.
-- Tendencia regional hacia modelos de vivienda colaborativa y cooperativas en cesión de uso (Ley Foral en desarrollo).
-- Integración en la red de vivienda pública rural que busca fijar población en municipios pequeños.
+- Disponibilidad de ayudas del Gobierno de Navarra mediante la **Estrategia de Vivienda Rural**
+- Apoyo técnico y financiero de **NASUVINSA** para convertir edificios públicos en vivienda de alquiler
+- Tendencia regional hacia modelos de vivienda colaborativa y cooperativas en cesión de uso (**Ley Foral en desarrollo**)
+- Integración en la red de vivienda pública rural que busca fijar población en municipios pequeños
 
 ### Tendencias sociales
 - Teletrabajo consolidado → demanda creciente de vivienda rural con buena conectividad
@@ -80,16 +80,15 @@ Instancia concreta del [DAFO_TEMPLATE.md](DAFO_TEMPLATE.md) con datos reales del
 - Conciencia creciente de calidad de vida rural entre familias urbanas con hijos
 
 ### Empleo próximo — radio 30 min
+
 | Empresa / Polígono | Distancia | Sector |
 |--------------------|-----------|--------|
 | GKN (Carcastillo) | ~20 min | Automoción / metalurgia |
 | Rockwool (Caparroso) | ~20 min | Aislamiento industrial |
-| Polígonos de Peralta, Marcilla | ~20 min | Industria agroalimentaria |
+| Polígonos Peralta, Marcilla | ~20 min | Industria agroalimentaria |
 | Polígono de Tafalla | ~15 min | Industria diversa |
 | Olite | ~15 min | Agroalimentario + turismo |
 | Pamplona | ~40 min (60 km) | Servicios, tecnología, administración |
-
-→ Santacara es residencia viable para trabajadores de todos estos centros
 
 ### Economía circular local
 - Modelo de reinversión: plusvalías de viviendas vendidas → nuevas rehabilitaciones
@@ -101,17 +100,17 @@ Instancia concreta del [DAFO_TEMPLATE.md](DAFO_TEMPLATE.md) con datos reales del
 
 ### Dinámica sistémica (bucle crítico)
 - Bucle de despoblación: menos vecinos → menos servicios → menos atractivo → más salidas
-- Umbral crítico estimado en ~600-700 hab.: por debajo, la retirada de servicios (escuela, médico) se vuelve probable
+- Umbral crítico estimado en ~600-700 hab.: por debajo, retirada de servicios (escuela, médico) probable
 - Con la tendencia actual, Santacara podría alcanzar ese umbral en 10-15 años sin intervención
 
 ### Entorno económico
 - Coste de reforma y construcción en alza (materiales + mano de obra)
-- Dependencia de subvenciones que pueden cambiar o desaparecer entre legislaturas
+- Dependencia de subvenciones que pueden cambiar entre legislaturas
 - Mercado laboral industrial cercano sujeto a ciclos económicos (riesgo de cierre de plantas)
-- Desajuste entre el precio de venta actual y el coste real de adecuación normativa.
-- Riesgo de pérdida de patrimonio municipal si no se mantiene la actividad en los edificios rehabilitados.
-- Competencia por fondos regionales con otros municipios de la Zona Media con proyectos más avanzados.
-  
+- Desajuste entre precio de venta actual y coste real de adecuación normativa
+- Riesgo de pérdida de patrimonio municipal si no se mantiene actividad en edificios rehabilitados
+- Competencia por fondos regionales con otros municipios de la Zona Media con proyectos más avanzados
+
 ### Percepción y visibilidad
 - Desconocimiento externo de la calidad de vida real de Santacara
 - Competencia de municipios mayores cercanos (Tafalla, Olite, Tudela) con más servicios visibles
@@ -125,7 +124,7 @@ Santacara tiene un perfil **F > D, O > A**: fortalezas internas sólidas y entor
 
 El diagnóstico apunta a un problema no de recursos ni de servicios, sino de **embudo de entrada**: hay demanda potencial, hay financiación municipal, hay empleo próximo, hay conectividad — pero no hay vivienda disponible donde alojar a quien querría venir.
 
-La estrategia óptima es:
+**Estrategia óptima**:
 1. Inventariar y activar los activos municipales de vivienda
 2. Calcular el ahorro real por subvenciones de edificación sostenible para reducir coste neto
 3. Hacer visible la calidad de vida de Santacara frente a municipios comparables
