@@ -122,4 +122,5 @@ Una vez completadas las 20 preguntas, agrega los resultados:
 
 ---
 
-*Ver instancia completa con datos reales: [DAFO_SANTACARA.md](DAFO_SANTACA
+*Ver instancia completa con datos reales: [DAFO_SANTACARA.md](DAFO_SANTACARA.md)*
+
