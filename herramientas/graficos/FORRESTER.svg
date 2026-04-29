@@ -1,1 +1,113 @@
+<svg width="100%" viewBox="0 0 680 560" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Diagrama Forrester — Santacara</title>
+<desc>Modelo de dinámica de sistemas con 5 stocks (población, viviendas disponibles, activos municipales, capital municipal, servicios) y 4 bucles de retroalimentación: B1 despoblación, R1 vivienda activa, R2 economía circular, R3 alianza pública.</desc>
+<defs>
+  <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+    <path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </marker>
+  <style>
+    text { font-family: system-ui, sans-serif; fill: #333; }
+    .th { font-size: 14px; font-weight: 500; }
+    .ts { font-size: 12px; font-weight: 400; }
+    .c-blue rect { fill: #E6F1FB; stroke: #185FA5; }
+    .c-blue .th { fill: #0C447C; }
+    .c-blue .ts { fill: #185FA5; }
+    .c-teal rect { fill: #E1F5EE; stroke: #0F6E56; }
+    .c-teal .th { fill: #085041; }
+    .c-teal .ts { fill: #0F6E56; }
+    .c-amber rect { fill: #FAEEDA; stroke: #854F0B; }
+    .c-amber .th { fill: #633806; }
+    .c-amber .ts { fill: #854F0B; }
+    .c-purple rect { fill: #EEEDFE; stroke: #534AB7; }
+    .c-purple .th { fill: #3C3489; }
+    .c-purple .ts { fill: #534AB7; }
+  </style>
+</defs>
 
+<!-- ===== STOCKS ===== -->
+<!-- POB: Población -->
+<g class="c-blue">
+  <rect x="270" y="230" width="140" height="50" rx="8" stroke-width="0.5"/>
+  <text class="th" x="340" y="249" text-anchor="middle" dominant-baseline="central">Población</text>
+  <text class="ts" x="340" y="268" text-anchor="middle" dominant-baseline="central">858 hab. · −5/año</text>
+</g>
+
+<!-- VIV: Viviendas disponibles -->
+<g class="c-teal">
+  <rect x="60" y="230" width="148" height="50" rx="8" stroke-width="0.5"/>
+  <text class="th" x="134" y="249" text-anchor="middle" dominant-baseline="central">Viviendas</text>
+  <text class="ts" x="134" y="268" text-anchor="middle" dominant-baseline="central">Cuello de botella</text>
+</g>
+
+<!-- SER: Servicios -->
+<g class="c-teal">
+  <rect x="472" y="230" width="148" height="50" rx="8" stroke-width="0.5"/>
+  <text class="th" x="546" y="249" text-anchor="middle" dominant-baseline="central">Servicios</text>
+  <text class="ts" x="546" y="268" text-anchor="middle" dominant-baseline="central">Por encima media</text>
+</g>
+
+<!-- ACT: Activos municipales -->
+<g class="c-amber">
+  <rect x="60" y="80" width="148" height="50" rx="8" stroke-width="0.5"/>
+  <text class="th" x="134" y="99" text-anchor="middle" dominant-baseline="central">Activos municipales</text>
+  <text class="ts" x="134" y="118" text-anchor="middle" dominant-baseline="central">Sin activar</text>
+</g>
+
+<!-- CAP: Capital municipal -->
+<g class="c-amber">
+  <rect x="472" y="80" width="148" height="50" rx="8" stroke-width="0.5"/>
+  <text class="th" x="546" y="99" text-anchor="middle" dominant-baseline="central">Capital municipal</text>
+  <text class="ts" x="546" y="118" text-anchor="middle" dominant-baseline="central">Alto (hidroeléctrica)</text>
+</g>
+
+<!-- ===== BUCLE B1: Despoblación ===== -->
+<path d="M410 250 Q440 240 472 250" fill="none" stroke="#E24B4A" stroke-width="1.5" marker-end="url(#arrow)"/>
+<text class="ts" x="441" y="237" text-anchor="middle" fill="#A32D2D">−</text>
+<path d="M546 280 Q546 420 340 420 Q270 420 270 280" fill="none" stroke="#E24B4A" stroke-width="1.5" stroke-dasharray="5 3" marker-end="url(#arrow)"/>
+<text class="ts" x="420" y="438" text-anchor="middle" fill="#A32D2D">B1 — Despoblación</text>
+
+<!-- ===== BUCLE R1: Vivienda activa ===== -->
+<path d="M208 250 Q238 240 270 250" fill="none" stroke="#0F6E56" stroke-width="1.5" marker-end="url(#arrow)"/>
+<text class="ts" x="239" y="237" text-anchor="middle" fill="#085041">+</text>
+<path d="M340 280 Q340 380 134 380 Q60 380 60 280" fill="none" stroke="#0F6E56" stroke-width="1.5" stroke-dasharray="5 3" marker-end="url(#arrow)"/>
+<text class="ts" x="192" y="400" text-anchor="middle" fill="#085041">R1 — Vivienda activa</text>
+
+<!-- ===== BUCLE R2: Economía circular ===== -->
+<path d="M134 130 L134 230" fill="none" stroke="#185FA5" stroke-width="1.5" marker-end="url(#arrow)"/>
+<text class="ts" x="118" y="185" text-anchor="middle" fill="#0C447C">rehab.</text>
+<path d="M546 130 Q340 60 134 80" fill="none" stroke="#185FA5" stroke-width="1.5" marker-end="url(#arrow)"/>
+<text class="ts" x="340" y="58" text-anchor="middle" fill="#0C447C">R2 — Economía circular</text>
+<path d="M410 240 Q440 160 472 105" fill="none" stroke="#185FA5" stroke-width="1.5" marker-end="url(#arrow)"/>
+<text class="ts" x="458" y="168" text-anchor="middle" fill="#0C447C">ingresos</text>
+
+<!-- ===== BUCLE R3: Alianza pública ===== -->
+<g class="c-purple">
+  <rect x="270" y="68" width="140" height="44" rx="8" stroke-width="0.5"/>
+  <text class="th" x="340" y="83" text-anchor="middle" dominant-baseline="central">NASUVINSA</text>
+  <text class="ts" x="340" y="101" text-anchor="middle" dominant-baseline="central">+ Gov. Navarra</text>
+</g>
+<path d="M270 90 Q208 90 208 90" fill="none" stroke="#534AB7" stroke-width="1.5" marker-end="url(#arrow)"/>
+<text class="ts" x="238" y="82" text-anchor="middle" fill="#3C3489">cofinancia</text>
+<path d="M410 90 Q440 90 472 95" fill="none" stroke="#534AB7" stroke-width="1.5" marker-end="url(#arrow)"/>
+<text class="ts" x="441" y="82" text-anchor="middle" fill="#3C3489">aval</text>
+<text class="ts" x="340" y="148" text-anchor="middle" fill="#3C3489">R3 — Alianza pública</text>
+
+<!-- ===== Koobizitza ===== -->
+<g class="c-purple">
+  <rect x="60" y="460" width="148" height="44" rx="8" stroke-width="0.5"/>
+  <text class="th" x="134" y="476" text-anchor="middle" dominant-baseline="central">Koobizitza</text>
+  <text class="ts" x="134" y="494" text-anchor="middle" dominant-baseline="central">Cesión de uso</text>
+</g>
+<path d="M134 460 L134 402" fill="none" stroke="#534AB7" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#arrow)"/>
+
+<!-- ===== Leyenda ===== -->
+<rect x="468" y="460" width="192" height="82" rx="8" fill="none" stroke="#ccc" stroke-width="0.5"/>
+<text class="ts" x="478" y="478" fill="#555">Leyenda</text>
+<line x1="478" y1="492" x2="510" y2="492" stroke="#E24B4A" stroke-width="1.5"/>
+<text class="ts" x="516" y="496" fill="#555">B1 — Despoblación (freno)</text>
+<line x1="478" y1="510" x2="510" y2="510" stroke="#0F6E56" stroke-width="1.5"/>
+<text class="ts" x="516" y="514" fill="#555">R1 — Vivienda (palanca)</text>
+<line x1="478" y1="528" x2="510" y2="528" stroke="#185FA5" stroke-width="1.5"/>
+<text class="ts" x="516" y="532" fill="#555">R2/R3 — Multiplicadores</text>
+
+</svg>
