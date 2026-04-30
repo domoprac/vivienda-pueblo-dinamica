@@ -229,7 +229,7 @@ La exclusión del Censo por renuncia a una vivienda adjudicada supone una penali
 |---------------------------|----------------------|------------|
 | "No conozco a nadie en Santacara" | Miedo a la soledad y al desarraigo | Protocolo de acogida activo antes de la firma (D1 en Fase 4) |
 | "Mi familia dice que es mala idea" | Presión social del entorno cercano | Testimonios de residentes actuales satisfechos; visita al municipio antes de decidir |
-| "El pueblo me parece demasiado pequeño" | Efecto de contraste con ciudad | Mostrar la realidad con datos: servicios, conectividad, calidad de vida — no solo la estética rural |
+| "El pueblo me parece demasiado pequeño" | Efecto de contraste con ciudad | Mostrar la realidad con datos: servicios, conectividad, calidad de vida — no solo la estética rural. Ver [github.com/domoprac/vivienda-pueblo-dinamica](https://github.com/domoprac/vivienda-pueblo-dinamica/tree/CPS) — el proyecto completo es en sí mismo una herramienta de comunicación basada en datos |
 | "Tengo miedo de quedarme atrapado si no funciona" | Aversión a la pérdida (Kahneman) | Claridad sobre las condiciones de salida del contrato; no presentarlo como decisión irreversible |
 
 #### Momento 3 — ¿Quién se queda después de los primeros meses?
