@@ -111,13 +111,39 @@ La analogía biológica traslada soluciones que la naturaleza ha desarrollado pa
 
 ---
 
-## 4.4 Técnica 3 — Inversión del problema (Reverse Brainstorming)
+## 4.4 Técnica 3 — Problem Solving Estratégico de Nardone
+
+El **Problem Solving Estratégico de Giorgio Nardone** aporta al proceso creativo tres técnicas complementarias que actúan sobre ángulos distintos del problema. A diferencia de SCAMPER (que genera ideas) o las analogías biológicas (que trasladan soluciones de otros dominios), Nardone trabaja sobre **la lógica del problema mismo**: cómo funciona, cómo se mantiene y cómo se puede desactivar.
+
+> *"Para conocer un problema es necesario introducir un primer cambio. Son las soluciones las que explican los problemas, no al revés."*
+> — Giorgio Nardone, *Problem Solving Estratégico*
+
+Las tres técnicas ya fueron aplicadas implícitamente en fases anteriores. Aquí se explicitan con su marco metodológico completo.
+
+### 4.4.1 Escenario más allá del problema
+
+Esta técnica pregunta: **¿cómo sería la situación si el problema ya estuviera completamente resuelto?** No se trata de fantasear, sino de describir con precisión el estado final deseado para que la mente pueda trabajar hacia atrás desde él (ver técnica del escalador, sección 4.8).
+
+**Aplicación a Santacara — escenario ideal (horizonte 10 años):**
+
+| Dimensión | Situación actual (problema) | Escenario más allá del problema |
+|-----------|----------------------------|----------------------------------|
+| Población | 858 hab., −5/año, media de edad 49,5 años | 920-950 hab., tendencia estable o positiva, media de edad 46 años |
+| Vivienda | 0 viviendas en alquiler, mercado paralizado | 8-12 viviendas municipales activas; lista de espera permanente |
+| Economía local | 129 afiliados S.S., 72 autónomos, comercio mínimo | 150+ afiliados; nuevos negocios de residentes; comercio local viable |
+| Servicios | En riesgo por umbral poblacional | Consolidados y en expansión por masa crítica superada |
+| Modelo | Sin replicar | 3-5 municipios navarros con modelo adaptado activo |
+| Finanzas municipales | Inversión inicial de ~40.000 € | Ingresos recurrentes de 25.000-40.000 €/año del parque de vivienda |
+
+Este escenario no es utópico: es la extrapolación directa del modelo piloto ya en marcha con la casa del médico y la casa del cura.
+
+### 4.4.2 Técnica del cómo empeorar
 
 *¿Cómo conseguiríamos que Santacara se despueble lo más rápidamente posible?*
 
-Invertir las respuestas genera soluciones que de otro modo no habrían emergido.
+Invertir las respuestas genera soluciones que de otro modo no habrían emergido. La lógica de Nardone: al obligar a la mente a buscar formas de empeorar, se bloquea el "esfuerzo voluntario" que impide la creatividad espontánea y se descubren paradójicamente las intervenciones más eficaces.
 
-| ¿Cómo acelerar la despoblación? | Inversión → solución |
+| ¿Cómo acelerar la despoblación? | Cómo empeorar → solución correcta |
 |---------------------------------|----------------------|
 | No decirle a nadie que existe el municipio | → Campaña activa de visibilidad en medios y redes; presencia en ferias de teletrabajo y slow living |
 | Poner la vivienda cara o inasequible | → Precio de alquiler explícitamente por debajo del mercado; calculadora comparativa publicada |
@@ -126,6 +152,12 @@ Invertir las respuestas genera soluciones que de otro modo no habrían emergido.
 | Que el ayuntamiento no haga nada | → Crear una estructura de gestión activa (convenio NASUVINSA + cooperativa) que no dependa del ciclo electoral |
 | Que los empleadores del entorno no sepan que hay vivienda disponible | → Acuerdo formal con RRHH de GKN, Rockwool, polígonos: "Santacara tiene vivienda para tus trabajadores" |
 | Hacer que la llegada de nuevos vecinos genere conflicto con los actuales | → Proceso participativo con vecinos actuales antes del lanzamiento; comunicación de los beneficios compartidos |
+
+### 4.4.3 Síntesis — patrón de soluciones que mantienen el problema
+
+Las respuestas a "¿cómo empeorar?" revelan el mismo patrón identificado en la sección 1.9: **todas las intervenciones convencionales actúan sobre síntomas** (imagen, empleo, costes fiscales) sin tocar el cuello de botella estructural (vivienda disponible). Cada vez que se aplica una de esas intervenciones sin resultado, se refuerza la creencia de que el problema es irresoluble — lo que Nardone llama "tentativas de solución que mantienen el problema".
+
+La solución correcta rompe el patrón atacando directamente el cuello de botella con los recursos que el ayuntamiento ya controla.
 
 ---
 
@@ -247,16 +279,57 @@ El proceso de convergencia no selecciona una sola idea sino una **configuración
 
 ---
 
-## 4.8 Hoja de ruta de implementación del modelo seleccionado
+## 4.8 Hoja de ruta — Técnica del escalador (Nardone)
 
-| Fase | Plazo | Acciones clave | Resultado esperado |
-|------|-------|---------------|-------------------|
-| **0 — Preparación** | Inmediato (ya en curso) | Rehabilitación casa médico + casa cura con Plan Rural Navarra/NASUVINSA | 2 viviendas listas en 2025-2026 |
-| **1 — Captación previa** | Paralelo a obras | Campaña RRHH empleadores + lista de espera + comunicación servicios | 5-10 candidatos verificados antes del lanzamiento |
-| **2 — Lanzamiento** | Al terminar obras | Selección de inquilinos + protocolo de acogida + firma contratos | 2 nuevas familias en Santacara |
-| **3 — Retorno** | Año 3-4 | Ingresos de alquiler acumulados cubren inversión neta municipal | Modelo autosostenible |
-| **4 — Escala** | Año 3-5 | Rehabilitación de 2-4 viviendas adicionales con retorno de la fase anterior | 4-6 viviendas totales; +8-12 residentes |
-| **5 — Replicación** | Año 4-6 | Documentación del modelo + contacto con municipios similares | Santacara como referencia replicable en Navarra |
+Los guías alpinos expertos planifican la escalada partiendo de la cima, trazando la ruta hacia atrás espacio por espacio hasta la base. Este procedimiento evita rutas que se desvían del objetivo y permite seguir el camino más eficiente hasta la cima. Aplicado al problema de Santacara: partimos del **escenario más allá del problema** (sección 4.4.1) y construimos hacia atrás hasta el primer paso concreto que se puede dar hoy.
+
+```
+CIMA — Objetivo final
+Santacara estabilizada: ~930 hab., tendencia positiva,
+parque de 8-12 viviendas activas, modelo replicado en 3+ municipios
+        ↑
+Fase 5 — Replicación (año 4-6)
+Documentación del modelo + contacto con municipios similares
+        ↑
+Fase 4 — Escala (año 3-5)
+Rehabilitación 2-4 viviendas adicionales con retorno de la Fase 3
+        ↑
+Fase 3 — Retorno (año 3-4)
+Ingresos acumulados cubren inversión neta → modelo autosostenible
+        ↑
+Fase 2 — Lanzamiento (al terminar obras)
+Selección de inquilinos + protocolo de acogida + firma contratos
+        ↑
+Fase 1 — Captación previa (paralelo a obras)
+Campaña RRHH empleadores + lista de espera verificada
+        ↑
+BASE — Primer paso (en curso HOY)
+Rehabilitación casa médico + casa cura
+Plan Rural Navarra/NASUVINSA — obras en marcha
+```
+
+### Tabla de micro-objetivos (del primer paso a la cima)
+
+| Paso | Plazo | Acción concreta | Señal de que está completo |
+|------|-------|----------------|---------------------------|
+| **0** | Hoy (en curso) | Obras casa médico + casa cura | Cédulas de habitabilidad emitidas |
+| **1** | Paralelo a obras | Contactar RRHH de GKN, Rockwool, polígonos | ≥5 familias en lista de espera |
+| **2** | Al terminar obras | Seleccionar inquilinos + firmar contratos | 2 familias empadronadas |
+| **3** | Mes 1 post-llegada | Ejecutar protocolo de acogida | Inquilinos integrados, sin bajas |
+| **4** | Año 1 | Primeros ingresos de alquiler recibidos | 10.800-13.200 € ingresados |
+| **5** | Año 3-4 | Inversión neta recuperada | Saldo positivo acumulado |
+| **6** | Año 3-4 | Iniciar rehabilitación de 2 viviendas adicionales | Presupuesto aprobado en pleno |
+| **7** | Año 4-5 | Documentar el modelo y contactar municipios similares | 1 municipio navarro replica el modelo |
+| **8** | Año 5-6 | Parque activo de 6-8 viviendas | Padrón ≥890 hab., tendencia estable |
+
+### Por qué el escalador es más útil que una hoja de ruta convencional
+
+Una hoja de ruta convencional parte del presente y proyecta hacia el futuro: "haremos X, luego Y, luego Z". El problema es que las decisiones iniciales pueden derivarse del objetivo real sin que nos demos cuenta.
+
+El escalador invierte la lógica: **cada paso se define en función de lo que necesita el paso siguiente**, que a su vez responde al objetivo final. Esto evita dos errores habituales en proyectos de dinamización municipal:
+
+1. **Activismo sin dirección**: hacer cosas (campañas, eventos, subvenciones) que no llevan al objetivo porque no se diseñaron desde él.
+2. **Parálisis por perfección**: esperar a tener todo resuelto antes de dar el primer paso, cuando el primer paso (obras ya en marcha) es el más pequeño y concreto posible.
 
 ---
 
