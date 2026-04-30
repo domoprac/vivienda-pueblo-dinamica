@@ -92,7 +92,7 @@ RACI define quién es Responsable de ejecutar, quién tiene Autoridad (aprueba),
 | Grupo de WhatsApp / Telegram | Comunicación operativa diaria | Ágil pero sin memoria institucional |
 | Carpeta compartida (Google Drive / OneDrive) | Documentos, contratos, planos, presupuestos | Imprescindible; da continuidad más allá de las personas |
 | Acta de reunión breve (1 página) | Registro de decisiones y tareas | Solo decisiones y próximos pasos; no transcripción |
-| Repositorio GitHub del proyecto | Documentación metodológica pública | Ya operativo: [github.com/domoprac/vivienda-pueblo-dinamica](https://github.com/domoprac/vivienda-pueblo-dinamica) |
+| Repositorio GitHub del proyecto | Documentación metodológica pública | Ya operativo: [github.com/domoprac/vivienda-pueblo-dinamica](https://github.com/domoprac/vivienda-pueblo-dinamica/tree/CPS) |
 
 ---
 
@@ -171,7 +171,7 @@ La vocación del proyecto desde el origen es generar un **modelo replicable**, n
 
 | Condición | Umbral mínimo | Santacara |
 |-----------|--------------|-----------|
-| Población | 300–2.000 hab. con tendencia descendente | ✅ 858 hab., −5/año reciente (−9/año media histórica) |
+| Población | 300–2.000 hab. con tendencia descendente | ✅ 858 hab., −5/año |
 | Activos municipales | Al menos 2 viviendas o edificios rehabilitables | ✅ Confirmado |
 | Ingresos municipales | Suficientes para cofinanciar el 25% de la obra | ✅ Alto (hidroeléctrica) |
 | Empleo en radio 30 min | Al menos un empleador con >100 trabajadores | ✅ GKN, Rockwool, polígonos |
@@ -192,7 +192,7 @@ El kit incluye todos los documentos generados en este proyecto, adaptados para u
 | Plantilla de presentación para pleno municipal | Argumentario para que el alcalde presente el proyecto al pleno | ⏳ Pendiente |
 | Checklist de primeros pasos | "Si eres alcalde y quieres empezar, haz esto en este orden" | ⏳ Pendiente |
 
-**Repositorio público**: [github.com/domoprac/vivienda-pueblo-dinamica](https://github.com/domoprac/vivienda-pueblo-dinamica)
+**Repositorio público**: [github.com/domoprac/vivienda-pueblo-dinamica](https://github.com/domoprac/vivienda-pueblo-dinamica/tree/CPS)
 
 ### Ruta de replicación recomendada
 
@@ -222,20 +222,13 @@ Para que el modelo sea evaluable y comunicable, se definen indicadores con valor
 
 ### Indicadores de impacto
 
-Los valores de línea base provienen de datos INE / SEPE 2024-2025.
-
-| Indicador | Línea base real | Objetivo año 3 | Objetivo año 5 |
-|-----------|----------------|----------------|----------------|
-| Población empadronada | 858 hab. (−9/año media histórica; −5/año reciente) | 870 hab. (+12) | 895 hab. (+37) |
-| Media de edad | 49,48 años | 48,5 años | 47 años |
-| Población <18 años | 103 hab. (12,0%) | 110 hab. (12,6%) | 120 hab. (13,4%) |
-| Población >65 años | 231 hab. (26,9%) | 228 hab. (26,2%) | 225 hab. (25,2%) |
-| Crecimiento vegetativo | −9 (2023) | −6 | −4 |
+| Indicador | Línea base (2024) | Objetivo año 3 | Objetivo año 5 |
+|-----------|-------------------|----------------|----------------|
+| Población empadronada | 858 hab. | 870 hab. (+12) | 890 hab. (+32) |
 | Viviendas municipales activadas | 0 (en obra: 2) | 2 | 4-6 |
 | Nuevas familias residentes | 0 | 2-3 | 5-8 |
-| Ingresos anuales por alquiler | 0 € | 10.800–13.200 €/año | 21.600–39.600 €/año |
-| Retorno sobre inversión neta | — | 100% (recuperado en año 3-4) | 200%+ |
-| Afiliados S.S. (empleo local) | 129 | 135 | 145 |
+| Ingresos anuales por alquiler | 0 € | 12.000 €/año | 24.000-36.000 €/año |
+| Retorno sobre inversión neta | — | 100% (recuperado) | 200%+ |
 
 ### Indicadores de proceso
 
@@ -264,4 +257,4 @@ Los valores de línea base provienen de datos INE / SEPE 2024-2025.
 
 *Fase anterior: [Fase 4 — Creatividad](FASE_4_CREATIVIDAD.md)*
 *Inicio del proyecto: [Fase 1 — Metodología CPS](FASE_1_METODOLOGIA.md)*
-*Repositorio completo: [github.com/domoprac/vivienda-pueblo-dinamica](https://github.com/domoprac/vivienda-pueblo-dinamica)*
+*Repositorio completo: [github.com/domoprac/vivienda-pueblo-dinamica](https://github.com/domoprac/vivienda-pueblo-dinamica/tree/CPS)*
