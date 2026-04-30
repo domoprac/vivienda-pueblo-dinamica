@@ -41,6 +41,22 @@ Existe un punto de inflexión estimado entre 600-700 habitantes para municipios 
 
 Una vez retirados los servicios, recuperarlos requiere un esfuerzo político y económico muy superior al de haberlos mantenido.
 
+### Datos demográficos reales de Santacara (INE 2024)
+
+La gravedad del problema queda confirmada por los datos del padrón:
+
+| Indicador | Valor | Interpretación |
+|-----------|-------|----------------|
+| Población 2024 | 858 hab. | −199 hab. desde 2002 (−9/año de media histórica) |
+| Ritmo reciente (2019-2024) | −5 hab./año | Desaceleración respecto al pico, pero tendencia negativa |
+| Media de edad | 49,48 años | +1,10 años respecto a hace un lustro — envejecimiento activo |
+| Población >65 años | 231 hab. (26,9%) | Casi 1 de cada 3 habitantes |
+| Población <18 años | 103 hab. (12,0%) | Base de reemplazo generacional muy estrecha |
+| Crecimiento vegetativo 2023 | −9 (4 nacimientos, 13 defunciones) | Sin inmigración, la pérdida sería el doble |
+| Población 18-65 años | 525 hab. (61,1%) | Masa crítica laboral aún presente, pero decreciente |
+
+El municipio ha perdido el 34% de su población desde 1986 (1.147 hab.) hasta 2024 (858 hab.). Sin intervención, el umbral crítico de 600-700 habitantes se alcanzaría en 8-13 años al ritmo actual.
+
 ---
 
 ## 2.3 Bucles de refuerzo positivo (palancas de intervención)
