@@ -202,15 +202,30 @@ Incluso en el escenario pesimista (55% subvención, 400 €/mes), el modelo es v
 
 ## 3.6 Validación de la hipótesis de demanda
 
+### Contexto laboral real de Santacara (datos SEPE / Seguridad Social 2025)
+
+Antes de estimar la demanda externa, es relevante entender la estructura laboral interna:
+
+| Indicador | Valor | Interpretación |
+|-----------|-------|----------------|
+| Afiliados S.S. en Santacara | 129 (agosto 2025) | Empleo local muy escaso para 858 hab. |
+| Régimen general (cuenta ajena) | 51 | Solo 51 empleos por cuenta ajena en el municipio |
+| Autónomos | 72 (55,8%) | La mayoría del empleo local es autónomo — sector agrícola y servicios |
+| Parados registrados | 35 | Tasa de paro ~6,7% sobre población activa estimada |
+| Parados >45 años | 25 (71,4%) | El paro está concentrado en mujeres mayores en el sector servicios |
+| Parados jóvenes (<25 años) | 0 | Sin paro juvenil — los jóvenes o trabajan o emigran |
+
+**Conclusión**: la economía local no puede absorber nuevos residentes. Los nuevos vecinos que lleguen necesitarán empleo fuera del municipio — exactamente el perfil que encaja con el radio de 30 min (GKN, Rockwool, polígonos).
+
 ### Perfil de demanda latente identificado
 
 | Perfil | Descripción | Número estimado | Base |
 |--------|-------------|-----------------|------|
 | Trabajadores GKN Carcastillo | Empleados de automoción ~20 min que viven en alquiler caro en Tudela o Pamplona | 10-30 potenciales | Empresa ~500 empleados; % que busca vivienda cercana |
-| Trabajadores Rockwool Caparroso | Empleados de industria ~20 min | 5-15 potenciales | Empresa ~300 empleados |
+| Trabajadores Rockwool Caparroso | Empleados industriales ~20 min (Caparroso tiene 24,72% de población extranjera — señal de alta demanda de vivienda trabajadora) | 5-15 potenciales | Empresa ~300 empleados |
 | Trabajadores polígonos Peralta/Marcilla | Sector agroalimentario ~20 min | 10-25 potenciales | Zona con alta rotación laboral |
-| Teletrabajadores | Profesionales con empleo remoto que buscan calidad de vida + coste bajo | 5-20 potenciales | Tendencia creciente post-pandemia; fibra 1 Gbps como diferencial |
-| Familias jóvenes zona | Parejas con hijos que no pueden pagar alquiler en Tudela o Pamplona | 5-15 potenciales | IBI 0,25%, escuela local, centro de salud <10 min |
+| Teletrabajadores | Profesionales con empleo remoto que buscan calidad de vida + coste bajo | 5-20 potenciales | Fibra 1 Gbps como diferencial real; media de edad 49 en Santacara deja margen para rejuvenecer el padrón |
+| Familias jóvenes zona | Parejas con hijos que no pueden pagar alquiler en Tudela o Pamplona | 5-15 potenciales | IBI 0,25%, escuela local, centro de salud <10 min; el 51% de vecinos actuales ya llegaron de fuera — no hay barrera cultural |
 
 **Demanda latente total estimada: 35-105 potenciales residentes** (10-30 unidades familiares).
 
