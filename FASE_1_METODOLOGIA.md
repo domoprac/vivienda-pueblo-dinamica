@@ -170,6 +170,133 @@ La existencia de demanda interna obliga a **separar dos horizontes temporales** 
 | Optimismo de planificación | Subvenciones al 75%, retorno en 3 años | Subestimar retrasos, obstáculos burocráticos o cambios normativos | Escenario pesimista documentado en Fase 3 (55% subvención, retorno 6,7 años) |
 | Sesgo de anclaje | El primer dato concreto (858 hab.) ancla todas las proyecciones | Proyecciones de población demasiado conservadoras o demasiado optimistas | Usar rango (escenario base + pesimista + optimista) en todos los modelos |
 
+## 1.11 El Factor X — Factor humano en la selección de inquilinos
+
+### ¿Qué es el Factor X en CPS?
+
+El **Factor X** es el componente humano que ningún modelo técnico o financiero puede eliminar: las personas no tomamos decisiones puramente racionales. Nos movemos por incentivos, percepciones, emociones, identidad social y presión del grupo. En este proyecto, el Factor X determina quién ocupa las viviendas del piloto — y esa decisión tiene consecuencias sistémicas directas sobre si el bucle R1 se activa o no.
+
+> El modelo financiero es robusto. El modelo de selección de inquilinos es el punto más frágil del proyecto desde el punto de vista humano.
+
+---
+
+### El sistema de adjudicación de NASUVINSA — lo que ya existe
+
+Antes de diseñar una regla propia, es fundamental entender qué sistema de selección tiene ya NASUVINSA, porque si las viviendas del piloto se gestionan a través de su Bolsa de Alquiler, ese sistema se aplica automáticamente.
+
+**NASUVINSA adjudica las viviendas de su parque mediante un baremo aplicado al Censo de Solicitantes de Vivienda Protegida**, con atención personalizada y gestión de contratos y renovaciones.
+
+Las viviendas se adjudican en riguroso orden de puntuación según el baremo establecido, entre personas inscritas en el censo que cumplan requisitos de ingresos y no dispongan de vivienda en propiedad. El proceso se celebra cada tres meses.
+
+La selección de inquilinos de la Bolsa de Alquiler se realiza entre personas inscritas en el Censo de Solicitantes, con subvenciones al alquiler de entre el 25% y el 90% según ingresos.
+
+#### Características clave del sistema NASUVINSA relevantes para Santacara
+
+| Característica | Descripción | Implicación para Santacara |
+|----------------|-------------|---------------------------|
+| **Baremo por puntuación** | Se adjudica por orden de puntos: necesidad de vivienda, ingresos, situación familiar | El sistema es objetivo y blindado legalmente — reduce el riesgo político para el alcalde |
+| **Censo de Solicitantes** | Solo pueden acceder personas inscritas en el censo navarro | Activa automáticamente la demanda externa latente — los 30 interesados internos que ya tienen vivienda propia no puntúan |
+| **Sin vivienda en propiedad** | Requisito de acceso | Filtra directamente a los 30 interesados internos si son propietarios — resuelve el dilema operativo de Fase 1 sección 1.10 |
+| **Precio regulado** | 5,55 €/m²/mes en zona rural (<5.000 hab.) | Para 90 m²: ~500 €/mes — asequible y dentro de las hipótesis del modelo financiero |
+| **Contrato 7 años y medio** | Plazo largo de cesión | Garantiza ingresos recurrentes y arraigo real del inquilino |
+| **Gestión delegada** | NASUVINSA busca inquilinos, gestiona contrato y mantenimiento | El ayuntamiento no tiene que gestionar la relación con el inquilino — reduce carga política y operativa |
+
+**Conclusión**: si el piloto se gestiona vía NASUVINSA, el sistema de selección ya existe, es legal, objetivo y resuelve automáticamente la tensión entre demanda interna y demanda externa.
+
+---
+
+### El Factor X — por qué el sistema técnico no es suficiente
+
+Incluso con un baremo objetivo, el Factor X actúa en al menos cuatro momentos críticos del proceso:
+
+#### Momento 1 — ¿Quién se inscribe en el Censo?
+
+El baremo solo actúa sobre quien está inscrito. La demanda latente externa (trabajadores de GKN, teletrabajadores) **no se inscribe sola** — necesita saber que existe la opción.
+
+| Sesgo en juego | Descripción | Efecto en Santacara |
+|----------------|-------------|---------------------|
+| **Sesgo de disponibilidad** | Las personas solo consideran opciones que conocen | Si los trabajadores de GKN no saben que hay vivienda en Santacara, no se inscriben en el Censo |
+| **Inercia de status quo** | Tendencia a no cambiar la situación actual aunque sea subóptima | "Ya me he acostumbrado a vivir en Tudela aunque sea caro" — el cambio requiere un empujón activo |
+| **Coste de transacción percibido** | Inscribirse en el Censo parece complicado o burocrático | Reducir la fricción: acompañar el proceso de inscripción desde la campaña de captación |
+
+**Corrección**: la campaña activa en empleadores (Fase 4, sección C1) no es solo marketing — es reducción de fricción cognitiva. Hay que llevar el proceso de inscripción al trabajador, no esperar que el trabajador lo encuentre solo.
+
+#### Momento 2 — ¿Quién renuncia una vez adjudicado?
+
+La exclusión del Censo por renuncia a una vivienda adjudicada supone una penalización de 2-3 años sin poder optar de nuevo. Esto desincentiva la renuncia especulativa, pero no elimina las renuncias por razones emocionales o sociales.
+
+| Causa de renuncia probable | Mecanismo psicológico | Corrección |
+|---------------------------|----------------------|------------|
+| "No conozco a nadie en Santacara" | Miedo a la soledad y al desarraigo | Protocolo de acogida activo antes de la firma (D1 en Fase 4) |
+| "Mi familia dice que es mala idea" | Presión social del entorno cercano | Testimonios de residentes actuales satisfechos; visita al municipio antes de decidir |
+| "El pueblo me parece demasiado pequeño" | Efecto de contraste con ciudad | Mostrar la realidad con datos: servicios, conectividad, calidad de vida — no solo la estética rural |
+| "Tengo miedo de quedarme atrapado si no funciona" | Aversión a la pérdida (Kahneman) | Claridad sobre las condiciones de salida del contrato; no presentarlo como decisión irreversible |
+
+#### Momento 3 — ¿Quién se queda después de los primeros meses?
+
+El arraigo no es automático. Los primeros 6-12 meses son críticos: si el nuevo residente no construye vínculos sociales reales, la probabilidad de abandono se dispara.
+
+| Factor de abandono | Mecanismo | Corrección |
+|-------------------|-----------|------------|
+| Aislamiento social | Sin red de relaciones, el municipio "no tiene vida" | Padrino/madrina local; integración en actividades del pueblo |
+| Disonancia cognitiva post-decisión | "Tomé la decisión equivocada" — se buscan confirmaciones del error | Seguimiento activo durante el primer año; resolver problemas antes de que cristalicen en narrative de fracaso |
+| Cambio de empleo o situación laboral | El trabajo en GKN/Rockwool era el ancla; si cambia, el motivo de vivir aquí desaparece | Diversificar el perfil de inquilinos: no solo trabajadores de una empresa, también teletrabajadores |
+
+#### Momento 4 — ¿Qué perciben los vecinos actuales?
+
+El Factor X no actúa solo sobre los nuevos residentes — también sobre los vecinos actuales. Su reacción determina si el entorno es acogedor o hostil para los recién llegados.
+
+| Percepción de vecinos | Mecanismo psicológico | Riesgo | Corrección |
+|----------------------|----------------------|--------|------------|
+| "Les están dando lo mejor a los de fuera" | Sesgo de equidad — injusticia percibida | Resistencia pública; sabotaje sutil de la acogida | Comunicación previa sobre el proceso de selección objetivo (baremo NASUVINSA) |
+| "Van a cambiar el pueblo" | Amenaza a la identidad local | Rechazo social a los nuevos vecinos | Participación de vecinos actuales en el protocolo de acogida — los convierte en protagonistas |
+| "El alcalde favorece a sus amigos" | Desconfianza institucional, especialmente en municipios pequeños | Pérdida de legitimidad del proyecto | El baremo objetivo de NASUVINSA como escudo: "No es el alcalde quien elige, es un sistema regulado por el Gobierno de Navarra" |
+
+---
+
+### Regla robusta de selección — propuesta integrada
+
+Integrando el sistema NASUVINSA con las correcciones del Factor X, la regla de selección recomendada para el piloto de Santacara es:
+
+```
+REGLA DE SELECCIÓN DE INQUILINOS — PILOTO SANTACARA
+
+1. CANAL: Gestión vía Bolsa de Alquiler NASUVINSA
+   → Baremo objetivo, legal, blindado políticamente
+
+2. FILTRO DE ELEGIBILIDAD (requisitos NASUVINSA):
+   → Inscrito en Censo de Solicitantes de Vivienda Protegida de Navarra
+   → Sin vivienda en propiedad (filtra demanda interna de propietarios)
+   → Ingresos dentro de los tramos establecidos
+
+3. CRITERIO DE PRIORIDAD MUNICIPAL (propuesto como preferencia en el Censo):
+   → Prioridad 1: nueva residencia + empleo en radio 30 min de Santacara
+   → Prioridad 2: nueva residencia + teletrabajo
+   → Prioridad 3: residente actual sin vivienda propia (mejora habitacional)
+
+4. REDUCCIÓN DE FRICCIÓN (antes de la inscripción):
+   → Campaña activa en RRHH de GKN, Rockwool, polígonos
+   → Acompañamiento en el proceso de inscripción al Censo
+   → Visita al municipio antes de la firma del contrato
+
+5. PROTOCOLO DE ARRAIGO (después de la firma):
+   → Padrino/madrina local asignado antes de la llegada
+   → Seguimiento activo durante los primeros 12 meses
+   → Revisión de satisfacción a los 6 y 12 meses
+```
+
+---
+
+### Análisis desde la sociología, psicología y antropología
+
+| Disciplina | Concepto aplicado | Aplicación a Santacara |
+|------------|------------------|----------------------|
+| **Psicología conductual** (Kahneman, Thaler) | *Nudge* — arquitectura de decisiones que facilita la elección correcta sin prohibir las otras | El baremo NASUVINSA es el nudge institucional: no obliga, pero hace que la opción más alineada con el objetivo público sea también la más fácil de acceder |
+| **Sociología del arraigo** (Granovetter) | Los vínculos débiles (conocidos, no amigos íntimos) son más importantes que los vínculos fuertes para integrarse en una nueva comunidad | El padrino/madrina no tiene que ser el mejor amigo del nuevo vecino — basta con que sea un puente hacia la red social del pueblo |
+| **Antropología de la comunidad rural** | Las comunidades pequeñas tienen alta memoria social y baja tolerancia a la percepción de injusticia | La transparencia del proceso de selección no es un lujo — es una condición de supervivencia política del proyecto |
+| **Economía conductual** (Ariely) | La aversión a la pérdida pesa el doble que la ganancia equivalente | Presentar la vivienda en Santacara como "recuperar calidad de vida que estás perdiendo pagando caro en Tudela" es más efectivo que "gana dinero viviendo aquí" |
+| **Psicología social** (Cialdini) | El principio de prueba social: las personas imitan las decisiones de otros similares a ellos | Los primeros 2 inquilinos son críticos: si están satisfechos y lo cuentan, la lista de espera crece sola. Si no lo están, el proyecto muere antes de escalar |
+
 ---
 
 *Siguiente fase: [Fase 2 — Fenomenología y análisis de la complejidad](FASE_2_FENOMENOLOGIA.md)*
