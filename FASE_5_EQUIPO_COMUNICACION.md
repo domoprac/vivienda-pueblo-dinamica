@@ -100,17 +100,46 @@ RACI define quién es Responsable de ejecutar, quién tiene Autoridad (aprueba),
 
 La comunicación externa tiene objetivos distintos según el actor. Un único mensaje para todos no funciona — cada actor necesita escuchar **lo que le importa a él**.
 
+> Si la comunicación falla en cualquiera de los tres niveles del sistema — Gobierno de Navarra → Ayuntamiento, Ayuntamiento → vecinos actuales, Ayuntamiento → potenciales nuevos residentes — el modelo no se activa aunque todo lo demás esté bien diseñado. La comunicación no es un complemento del proyecto: es una condición estructural de su éxito.
+
+### Los tres niveles de comunicación del sistema
+
+```
+GOBIERNO DE NAVARRA
+(estrategia, financiación, programas)
+        ↓ Encuentros comarcales / ORVE / NASUVINSA
+AYUNTAMIENTO
+(decisión, gestión, legitimidad local)
+        ↓ Bandos municipales / WhatsApp vecinal / asamblea
+VECINOS ACTUALES          →→→      POTENCIALES NUEVOS RESIDENTES
+(apoyo social, acogida)              (demanda latente, lista de espera)
+```
+
+Si el Gobierno no llega bien al Ayuntamiento, este no conoce los programas disponibles ni los activa. Si el Ayuntamiento no comunica bien a los vecinos, el proyecto carece de legitimidad social. Si no se llega a los potenciales residentes, la demanda latente nunca se convierte en personas reales.
+
+### Comunicación real ya en marcha en Santacara
+
+| Canal | Descripción | Estado |
+|-------|-------------|--------|
+| **Bandos municipales** | Avisos oficiales del ayuntamiento comunicando dónde y cuándo se explica el proyecto | ✅ Activo |
+| **Grupo de WhatsApp municipal** | Canal directo con vecinos para información y seguimiento del proyecto | ✅ Activo |
+| **Encuentros comarcales Gobierno de Navarra** | Sesiones presenciales del Gobierno de Navarra con ayuntamientos de la comarca para presentar la Estrategia de Lucha contra la Despoblación y los programas disponibles. La primera sesión se celebró en el Consorcio Zona Media en Olite (~15 min de Santacara) | ✅ Celebrado (verano 2025) |
+
+Santacara ya tiene los canales de comunicación interna activos y está en el radar del Gobierno de Navarra a través de los encuentros comarcales. La **brecha de comunicación que queda abierta** es la captación activa de demanda externa.
+
 ### 5.5.1 Comunicación con el Gobierno de Navarra / NASUVINSA
 
-**Objetivo**: mantener el acceso a financiación y asegurar la continuidad del convenio.
+**Objetivo**: mantener el acceso a financiación y asegurar la continuidad del convenio. Aprovechar los canales ya abiertos por los encuentros comarcales.
 
 | Elemento | Contenido |
 |----------|-----------|
 | Mensaje central | "Santacara es un piloto replicable con datos reales y gestión rigurosa" |
+| Canal ya activo | Encuentros comarcales Zona Media (Olite, ~15 min) + ORVE Tafalla (~15 min) + Proyecto Arraigo (en diagnóstico territorial activo en los 182 municipios en riesgo) |
 | Formato | Informe técnico por hito (inicio, mitad de obra, entrega, primer año de ocupación) |
 | Indicadores a reportar | Viviendas rehabilitadas, coste total, subvención recibida, inquilinos, ingresos generados, variación padrón |
-| Frecuencia | Por hito + reunión semestral |
+| Frecuencia | Por hito + participación en encuentros comarcales anuales |
 | Tono | Técnico, con datos, orientado a resultados |
+| Oportunidad adicional | Proyecto Arraigo tiene 24.000 familias en su base de datos buscando municipio rural — solicitar que Santacara figure como municipio disponible cuando las viviendas estén listas |
 
 ### 5.5.2 Comunicación con vecinos actuales
 
@@ -119,11 +148,13 @@ La comunicación externa tiene objetivos distintos según el actor. Un único me
 | Elemento | Contenido |
 |----------|-----------|
 | Mensaje central | "Más vecinos = más servicios para todos. Los que llegan eligen Santacara." |
-| Formato | Asamblea vecinal antes del lanzamiento + cartel informativo + artículo en boletín municipal |
-| Temas a cubrir | Quiénes son los nuevos vecinos (perfil), qué servicios tendrán, cómo se integrará en la vida del pueblo |
-| Frecuencia | Asamblea inicial + actualización trimestral |
+| Canales ya activos | **Bandos municipales** (aviso de reuniones y actualizaciones) + **Grupo de WhatsApp vecinal** (canal directo, inmediato, con alta penetración en municipios pequeños) |
+| Formato adicional | Asamblea vecinal antes del lanzamiento + cartel informativo en espacios comunes |
+| Temas a cubrir | Quiénes son los nuevos vecinos (perfil), proceso de selección objetivo (baremo NASUVINSA — no decide el alcalde), cómo se integrará en la vida del pueblo |
+| Frecuencia | Bando + WhatsApp por hito relevante + asamblea semestral |
 | Tono | Cercano, con testimonios concretos, sin tecnicismos |
-| Riesgo a gestionar | "Los de fuera van a ocupar lo nuestro" → Respuesta: el ayuntamiento no vende nada; alquila lo que estaba vacío |
+| Riesgo a gestionar | "Los de fuera van a ocupar lo nuestro" → Respuesta: el ayuntamiento no vende nada; alquila lo que estaba vacío. Y el proceso de selección lo gestiona el Gobierno de Navarra, no el alcalde. |
+| Factor X a gestionar | Los 30 interesados internos que no resulten adjudicatarios pueden sentirse excluidos — anticipar este escenario en la comunicación previa al lanzamiento |
 
 ### 5.5.3 Comunicación con potenciales nuevos residentes
 
