@@ -53,19 +53,23 @@ La clave del CPS en esta fase es no confundir el síntoma (despoblación) con el
 
 ## 1.7 Herramientas de diagnóstico aplicadas
 
-| Herramienta | Estado | Archivo |
+| Herramienta | Estado | Archivos |
 |-------------|--------|---------|
-| DAFO (autodiagnóstico genérico) | ✅ Completado | [DAFO_TEMPLATE.md](herramientas/DAFO_TEMPLATE.md) |
-| DAFO (instancia Santacara) | ✅ Completado | [DAFO_SANTACARA.md](herramientas/DAFO_SANTACARA.md) |
-| Ishikawa (causa-raíz) | 🔄 En curso | [ISHIKAWA.md](herramientas/ISHIKAWA.md) |
-| Diagrama causal (Forrester) | 🔄 En curso | [FORRESTER.md](herramientas/FORRESTER.md) |
+| DAFO | ✅ Completo | [Template](herramientas/DAFO_TEMPLATE.md) · [Santacara](herramientas/DAFO_SANTACARA.md) |
+| Ishikawa (causa-raíz) | ✅ Completo | [Template](herramientas/ISHIKAWA_TEMPLATE.md) · [Santacara](herramientas/ISHIKAWA_SANTACARA.md) · [SVG](herramientas/graficos/ISHIKAWA.svg) · [Metodología](herramientas/ISHIKAWA.md) |
+| Forrester (dinámica de sistemas) | ✅ Completo | [Template](herramientas/FORRESTER_TEMPLATE.md) · [Santacara](herramientas/FORRESTER_SANTACARA.md) · [SVG](herramientas/graficos/FORRESTER.svg) · [Metodología](herramientas/FORRESTER.md) |
+| Stakeholders (mapa de actores) | ✅ Completo | [Template](herramientas/STAKEHOLDERS_TEMPLATE.md) · [Santacara](herramientas/STAKEHOLDERS_SANTACARA.md) |
 
-## 1.8 Hipótesis de trabajo (para validar en Fase 3)
+## 1.8 Hipótesis de trabajo — estado de validación
 
-1. El municipio tiene activos de vivienda infrautilizados cuyo valor de rehabilitación es inferior al precio de venta o alquiler de mercado
-2. Existe demanda real de residencia rural en el radio de influencia del municipio (teletrabajadores, trabajadores de polígonos industriales próximos)
-3. Las subvenciones autonómicas disponibles reducen significativamente el coste neto de rehabilitación para el ayuntamiento
-4. El multiplicador económico local de la obra y la llegada de nuevos vecinos compensa con creces la inversión inicial en un horizonte de 5-10 años
+| # | Hipótesis | Estado | Evidencia (Fase 3) |
+|---|-----------|--------|-------------------|
+| 1 | El municipio tiene activos de vivienda infrautilizados cuyo valor de rehabilitación es inferior al precio de venta o alquiler de mercado | ✅ Validada | Casa médico + casa cura ya en rehabilitación; precio venta mercado 650-750 €/m² vs. coste rehabilitación 800 €/m² cubierto al 75% por Plan Rural Navarra |
+| 2 | Existe demanda real de residencia rural en el radio de influencia del municipio | ✅ Parcialmente validada | 30 interesados confirmados (residentes actuales); demanda externa latente estimada 35-105 personas pendiente de verificación con empleadores del entorno (GKN, Rockwool, polígonos) |
+| 3 | Las subvenciones autonómicas disponibles reducen significativamente el coste neto de rehabilitación | ✅ Validada | Plan Rehabilitación Rural Navarra/NASUVINSA: 75% del coste de obra, máx. 60.000 €/vivienda — coste neto municipal ~40.000 € para 2 viviendas |
+| 4 | El multiplicador económico local compensa con creces la inversión inicial en un horizonte de 5-10 años | ✅ Validada (modelo) | Retorno sobre inversión neta: 27-33%/año; período de retorno 3-4 años; a 10 años el parque genera +84.000 € sobre la inversión inicial — ver Fase 3, sección 3.5 |
+
+> ⚠️ **Hipótesis pendiente de validación externa**: la demanda de nuevos residentes externos (H2) está estimada pero no verificada. El paso crítico es abrir la lista de espera antes del lanzamiento y contactar con los departamentos de RRHH de los empleadores del entorno. Ver Fase 3, sección 3.6.
 
 ## 1.9 Soluciones intentadas que mantienen el problema (Nardone)
 
