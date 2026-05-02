@@ -1,0 +1,105 @@
+<svg width="100%" viewBox="0 0 680 580" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Modelo Forrester — Santacara</title>
+<desc>Dinámica de sistemas: 5 stocks, 4 bucles. B1 despoblación, R1 vivienda activa, R2 economía circular, R3 alianza pública.</desc>
+<defs>
+  <marker id="arr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+    <path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </marker>
+  <style>
+    text { font-family: system-ui, sans-serif; }
+    .th { font-size: 13px; font-weight: 600; fill: #1a1a1a; }
+    .ts { font-size: 11px; fill: #555; }
+    .lbl { font-size: 10px; fill: #555; }
+    .s-amber  { fill: #FAEEDA; stroke: #854F0B; }
+    .s-teal   { fill: #E1F5EE; stroke: #0F6E56; }
+    .s-blue   { fill: #E6F1FB; stroke: #185FA5; }
+    .s-green  { fill: #EAF3DE; stroke: #3B6D11; }
+    .s-purple { fill: #EEEDFE; stroke: #534AB7; }
+  </style>
+</defs>
+
+<!-- FILA 1: R3 Alianza pública -->
+<rect x="230" y="14" width="220" height="52" rx="10" class="s-purple" stroke-width="1"/>
+<text class="th" x="340" y="33" text-anchor="middle" dominant-baseline="central">NASUVINSA + Gov. Navarra</text>
+<text class="ts" x="340" y="52" text-anchor="middle" dominant-baseline="central" fill="#534AB7">R3 — Alianza pública</text>
+
+<!-- FILA 2: Activos · Capital · Viviendas -->
+<rect x="20" y="118" width="155" height="54" rx="8" class="s-amber" stroke-width="1"/>
+<text class="th" x="97" y="137" text-anchor="middle" dominant-baseline="central">Activos municipales</text>
+<text class="ts" x="97" y="155" text-anchor="middle" dominant-baseline="central">Casa médico + cura</text>
+
+<rect x="252" y="118" width="176" height="54" rx="8" class="s-amber" stroke-width="1"/>
+<text class="th" x="340" y="137" text-anchor="middle" dominant-baseline="central">Capital municipal</text>
+<text class="ts" x="340" y="155" text-anchor="middle" dominant-baseline="central">Alto — hidroeléctrica</text>
+
+<rect x="505" y="118" width="155" height="54" rx="8" class="s-teal" stroke-width="1"/>
+<text class="th" x="582" y="137" text-anchor="middle" dominant-baseline="central">Viviendas disponibles</text>
+<text class="ts" x="582" y="155" text-anchor="middle" dominant-baseline="central">Alquiler asequible</text>
+
+<!-- FILA 3: Empleo · Población · Servicios -->
+<rect x="20" y="310" width="155" height="54" rx="8" class="s-green" stroke-width="1"/>
+<text class="th" x="97" y="329" text-anchor="middle" dominant-baseline="central">Empleo local</text>
+<text class="ts" x="97" y="347" text-anchor="middle" dominant-baseline="central">Obra + negocios</text>
+
+<rect x="252" y="310" width="176" height="54" rx="8" class="s-blue" stroke-width="1"/>
+<text class="th" x="340" y="329" text-anchor="middle" dominant-baseline="central">Población</text>
+<text class="ts" x="340" y="347" text-anchor="middle" dominant-baseline="central">858 hab · −5/año</text>
+
+<rect x="505" y="310" width="155" height="54" rx="8" class="s-teal" stroke-width="1"/>
+<text class="th" x="582" y="329" text-anchor="middle" dominant-baseline="central">Servicios activos</text>
+<text class="ts" x="582" y="347" text-anchor="middle" dominant-baseline="central">Escuela · salud · comercio</text>
+
+<!-- FLECHAS -->
+<!-- R3 → Activos -->
+<path d="M268 66 Q190 66 175 118" fill="none" stroke="#534AB7" stroke-width="1.5" marker-end="url(#arr)"/>
+<text class="lbl" x="192" y="92" text-anchor="middle" fill="#534AB7">75% subv.</text>
+<!-- R3 → Capital -->
+<path d="M412 66 Q390 90 390 118" fill="none" stroke="#534AB7" stroke-width="1.5" marker-end="url(#arr)"/>
+<text class="lbl" x="418" y="90" fill="#534AB7">aval</text>
+<!-- Capital → Activos -->
+<path d="M252 145 L175 145" fill="none" stroke="#854F0B" stroke-width="1.5" marker-end="url(#arr)"/>
+<text class="lbl" x="212" y="138" text-anchor="middle">25% neto</text>
+<!-- Activos → Viviendas (principal) -->
+<path d="M175 145 L505 145" fill="none" stroke="#854F0B" stroke-width="2" marker-end="url(#arr)"/>
+<rect x="300" y="131" width="80" height="16" rx="3" fill="#FAEEDA"/>
+<text class="lbl" x="340" y="141" text-anchor="middle">rehabilitación</text>
+<!-- Activos → Empleo -->
+<path d="M97 172 L97 310" fill="none" stroke="#854F0B" stroke-width="1.5" marker-end="url(#arr)"/>
+<rect x="58" y="232" width="70" height="16" rx="3" fill="#FAEEDA"/>
+<text class="lbl" x="93" y="242" text-anchor="middle">obra local</text>
+<!-- Viviendas → Población R1 -->
+<path d="M582 172 L582 252 L428 252 L428 310" fill="none" stroke="#0F6E56" stroke-width="2" marker-end="url(#arr)"/>
+<rect x="490" y="238" width="90" height="16" rx="3" fill="#E1F5EE"/>
+<text class="lbl" x="535" y="248" text-anchor="middle" fill="#0F6E56">nuevos vecinos</text>
+<!-- Población → Servicios -->
+<path d="M428 337 L505 337" fill="none" stroke="#185FA5" stroke-width="1.5" marker-end="url(#arr)"/>
+<rect x="430" y="323" width="68" height="16" rx="3" fill="#E6F1FB"/>
+<text class="lbl" x="464" y="333" text-anchor="middle">masa crítica</text>
+<!-- Servicios → Viviendas (R1 retorno) -->
+<path d="M660 337 L660 145" fill="none" stroke="#0F6E56" stroke-width="1.5" stroke-dasharray="5 3" marker-end="url(#arr)"/>
+<rect x="622" y="232" width="68" height="16" rx="3" fill="#E1F5EE"/>
+<text class="lbl" x="656" y="242" text-anchor="middle" fill="#0F6E56">+ atractivo</text>
+<!-- Viviendas → Capital (R2) -->
+<path d="M505 133 L428 133" fill="none" stroke="#3B6D11" stroke-width="1.5" stroke-dasharray="5 3" marker-end="url(#arr)"/>
+<rect x="430" y="118" width="72" height="16" rx="3" fill="#EAF3DE"/>
+<text class="lbl" x="466" y="128" text-anchor="middle" fill="#3B6D11">ingresos alq.</text>
+<!-- Empleo → Capital (R2) -->
+<path d="M175 337 L252 337 L252 172" fill="none" stroke="#3B6D11" stroke-width="1.5" stroke-dasharray="5 3" marker-end="url(#arr)"/>
+<rect x="178" y="323" width="68" height="16" rx="3" fill="#EAF3DE"/>
+<text class="lbl" x="212" y="333" text-anchor="middle" fill="#3B6D11">impuestos</text>
+<!-- B1 despoblación -->
+<path d="M340 364 L340 408 L582 408 L582 364" fill="none" stroke="#E24B4A" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#arr)"/>
+<rect x="395" y="396" width="132" height="18" rx="3" fill="#FCEBEB"/>
+<text class="lbl" x="461" y="407" text-anchor="middle" fill="#A32D2D">B1 — despoblación (frenar)</text>
+
+<!-- LEYENDA -->
+<rect x="20" y="432" width="640" height="72" rx="8" fill="none" stroke="#ddd" stroke-width="0.5"/>
+<line x1="36" y1="455" x2="72" y2="455" stroke="#0F6E56" stroke-width="2"/>
+<text class="lbl" x="80" y="458" dominant-baseline="central">R1 — Vivienda activa (palanca principal)</text>
+<line x1="36" y1="476" x2="72" y2="476" stroke="#3B6D11" stroke-width="1.5" stroke-dasharray="5 3"/>
+<text class="lbl" x="80" y="479" dominant-baseline="central">R2 — Economía circular (multiplicador)</text>
+<line x1="340" y1="455" x2="376" y2="455" stroke="#534AB7" stroke-width="1.5"/>
+<text class="lbl" x="384" y="458" dominant-baseline="central">R3 — Alianza pública (financiación)</text>
+<line x1="340" y1="476" x2="376" y2="476" stroke="#E24B4A" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text class="lbl" x="384" y="479" dominant-baseline="central" fill="#A32D2D">B1 — Despoblación (bucle a frenar)</text>
+</svg>
